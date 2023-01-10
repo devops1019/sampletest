@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Jenkins and Tomcat integration with plugin </h2>
-<h2>Jenkins and Tomcat integration with plugin and pollscm </h2>
-<h2>Jenkins and Tomcat integration with plugin and webhooks </h2>
-<h2>Jenkins and Tomcat integration with plugin and scripted pipelines </h2>
-<h2>Ansible and Tomcat integration </h2>
-<h2> Building cicd pipeline using Docker </h2>
-
+<h2>This is from DeV using parameters </h2>
+<h2>PARAMATER Jenkins and Tomcat integration using parameters </h2>
+<h2>DECLECRATIVE Jenkins and Tomcat integration </h2>
+<h2>PIPELINE Jenkins and Tomcat integration with plugin and scripted pipelines </h2>
 </body>
 </html>
